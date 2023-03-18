@@ -2,6 +2,8 @@
 # PhantomVote - Platforma do demokratycznych głosowań
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=%20This%20Project's%20Tech%20Stack&align=center&titleAlign=center&lineCount=1&theme=android&line1=Flutter,Flutter,02569B;Kotlin,Kotlin,7F52FF;Algorand,Algorand,000000;" alt="My Tech Stack" />
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FUCZP7WKXdo2RcIHtjKvZjw%2FPhantomVote%3Fpage-id%3D13%253A2%26node-id%3D13-7%26viewport%3D136%252C441%252C0.28%26scaling%3Dscale-down" allowfullscreen></iframe>
+
 ## Wprowadzenie
 
 Aplikacja pozwala użytkownikom na przeprowadzanie bezpiecznych głosowań w sposób całkowicie zdecentralizowany, bez udziału pośredników. Platforma jest oparta na smart kontraktach i pozwala na weryfikację wyników wyborów w czasie rzeczywistym. Aplikacja posiada intuicyjny interfejs użytkownika oraz jest zgodna z różnymi platformami.
@@ -32,6 +34,7 @@ Aplikacja pozwala użytkownikom na przeprowadzanie bezpiecznych głosowań w spo
 -   Kryptografia
 
 ## Product Showcase
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FUCZP7WKXdo2RcIHtjKvZjw%2FPhantomVote%3Fnode-id%3D135%253A2%26t%3DSr2u56d1WNvVS7oV-1" allowfullscreen></iframe>
 
 ## Linki
 
